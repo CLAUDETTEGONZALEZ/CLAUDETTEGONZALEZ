@@ -10,7 +10,6 @@
 <div style="display: inline_block" align="center">
   <img src="./img/html.png" width="40">
   <img src="./img/css.png" width="40">
-  <img src="./img/sass.png" width="40">
   <img src="./img/js.png" width="40">
   <img src="./img/react.png" width="40">
   <img src="./img/git.png" width="40">
