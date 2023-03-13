@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👻, I'm Claudette González</h1>
 
-<h3 align="center">👾Junior Full Stack Developer👾. Constantly learning and facing new challenges. I enjoy spending time with family and reading in my free time 😼.</h3>
+<h3 align="center">👾Junior Full Stack Developer👾.</h3>
 <div align="center">
 <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif">
   </div>
-
+<h3 align="center">Constantly learning and facing new challenges. I enjoy spending time with family and reading in my free time 😼.</h3>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <div style="display: inline_block" align="center">
